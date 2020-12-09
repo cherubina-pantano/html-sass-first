@@ -1,8 +1,32 @@
+//Variabili
+
+$primary-col: #D90429;
+$secondary-col: #EDF2F4;
+$text-col: #8D99AE;
+$bkg-col: #2B2D42;
+
+// General
 body {
-  color: #fff;
-  background: #000;
-  h1 {
-    text-transform: uppercase;
-    text-align: center;
-  }
+  color: $text-col;
+  background: $bkg-col;
+  margin: 0 auto;
+  width: 1200px;
+}
+
+// Titoli
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: $primary-col;
+  text-align: center;
+}
+
+h2,
+h3 {
+  color: $secondary-col;
 }
