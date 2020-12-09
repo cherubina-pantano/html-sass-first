@@ -1,0 +1,10 @@
+body {
+  color: #fff;
+  background: #000;
+}
+
+body h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
