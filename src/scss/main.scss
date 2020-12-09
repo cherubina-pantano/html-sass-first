@@ -1,9 +1,9 @@
 //Variabili
 
-$primary-col: #D90429;
-$secondary-col: #EDF2F4;
-$text-col: #8D99AE;
-$bkg-col: #2B2D42;
+$primary-col: #E76F51;
+$secondary-col: #E9C46A;
+$text-col: #F4A261;
+$bkg-col: #264653;
 
 // General
 body {
@@ -11,6 +11,7 @@ body {
   background: $bkg-col;
   margin: 0 auto;
   width: 1200px;
+  font-family: sans-serif;
 }
 
 // Titoli

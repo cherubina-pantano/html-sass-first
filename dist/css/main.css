@@ -1,8 +1,9 @@
 body {
-  color: #8D99AE;
-  background: #2B2D42;
+  color: #F4A261;
+  background: #264653;
   margin: 0 auto;
   width: 1200px;
+  font-family: sans-serif;
 }
 
 h1,
@@ -13,12 +14,12 @@ h3 {
 }
 
 h1 {
-  color: #D90429;
+  color: #E76F51;
   text-align: center;
 }
 
 h2,
 h3 {
-  color: #EDF2F4;
+  color: #E9C46A;
 }
 
